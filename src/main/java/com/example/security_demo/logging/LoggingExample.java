@@ -13,6 +13,8 @@ public class LoggingExample {
     public String log1()
     {
 
+
+
         //Logging
         log.error("ERROR");  //by default enabled
         log.warn("WARN");    //by default enabled
@@ -22,7 +24,7 @@ public class LoggingExample {
 
 
 
-        return "hello, Log 1 from spring boot";
+        return "hello, Log 1 from spring boot project...";
 
     }
 }
